@@ -1,1 +1,1 @@
-Kaggle competition for the Data Science/Macine Learning DeCal. Used a pretrained VGG-16 model to featurize images of cats and dogs, and then added fully connected layers to classify them. The files were run on an AWS GPU instance to speed up the process.
+Kaggle competition for the Data Science/Macine Learning DeCal. Used a pretrained VGG-16 model to featurize images of cats and dogs, and then added fully connected layers to classify them. featurize.py was run on an AWS GPU instance to speed up the process.
